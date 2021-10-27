@@ -17,7 +17,7 @@ A system to store trending memories
             <li>`cd server`</li>
             <li>`npm i`</li>
             <li>Rename the `.env.example` file to `.env`</li>
-            <li>set the mongodb connection in CONNECTION_URL enviorment variable</li>
+            <li>Update the mongodb connection in CONNECTION_URL .env file</li>
             <li>`npm run start`</li>
         </ul>
     </li>
